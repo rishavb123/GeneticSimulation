@@ -1,0 +1,10 @@
+LICENCE
+README.md
+pyproject.toml
+setup.py
+geneticsim/__init__.py
+geneticsim.egg-info/PKG-INFO
+geneticsim.egg-info/SOURCES.txt
+geneticsim.egg-info/dependency_links.txt
+geneticsim.egg-info/requires.txt
+geneticsim.egg-info/top_level.txt
